@@ -1,0 +1,50 @@
+.form_Update_Container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #534c4c;
+}
+
+.form_Update_Container form {
+    width: 30%;
+    min-height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff5da;
+    border-radius: 5px;
+    box-shadow: 1 1 #ccc;
+}
+
+.form_Update_Container span {
+    font-size: 2.4rem;
+    color: rgb(62, 13, 221);
+    margin-bottom: 8px;
+
+}
+
+.form_Update_Container input {
+    width: 80%;
+    height: 30px;
+    margin: 12px 0 ;
+}
+
+.form_Update_Container input::placeholder {
+    padding-left: 4px;
+}
+
+.form_Update_Container button {
+    margin-top: 12px;
+    cursor: pointer;
+    height: 32px;
+    width: 112px;
+    background-color: rgb(62, 13, 221);
+    color: #fff;
+}
+
+.form_Update_Container a {
+    color: rgb(62, 13, 221);;
+}

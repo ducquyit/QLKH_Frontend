@@ -1,0 +1,16 @@
+.error-message-admin {
+    width: 200px;
+    height: 40px;
+    background-color: #ffcccc;
+    border-radius: 4px;
+    margin-bottom: 4px;
+  }
+
+.error-message-admin p {
+    font-size: 14px;
+    color: #000;
+    font-weight: 500;
+    text-align: center;
+    line-height: 40px;
+}
+  

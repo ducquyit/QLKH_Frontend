@@ -1,0 +1,21 @@
+#header {
+    display: flex;
+    height: 40px;
+    background-color: rgb(62, 13, 221);
+    justify-content: right;
+    align-items: center;
+}
+
+#header .admin_logout_icon {
+    margin-right: 40px;
+    width: 28px;
+    height: 24px;
+    background-color: rgb(231 215 29);
+    text-align: center;
+}
+
+.admin_logout_icon i {
+    font-size: 1.4rem;
+    line-height: 24px;
+    cursor: pointer;
+}
